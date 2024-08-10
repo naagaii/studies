@@ -3,6 +3,55 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Sound",
+      "request": "launch",
+      "mainClass": "LivroJavaParaIniciantes.Sound",
+      "projectName": "studies_4757b834"
+    },
+    {
+      "type": "java",
+      "name": "BoolDemo",
+      "request": "launch",
+      "mainClass": "LivroJavaParaIniciantes.BoolDemo",
+      "projectName": "studies_4757b834"
+    },
+    {
+      "type": "java",
+      "name": "CharArithDemo",
+      "request": "launch",
+      "mainClass": "LivroJavaParaIniciantes.CharArithDemo",
+      "projectName": "studies_4757b834"
+    },
+    {
+      "type": "java",
+      "name": "Hypot",
+      "request": "launch",
+      "mainClass": "LivroJavaParaIniciantes.Hypot",
+      "projectName": "studies_4757b834"
+    },
+    {
+      "type": "java",
+      "name": "Inches",
+      "request": "launch",
+      "mainClass": "LivroJavaParaIniciantes.Inches",
+      "projectName": "studies_4757b834"
+    },
+    {
+      "type": "java",
+      "name": "GalToLitTable",
+      "request": "launch",
+      "mainClass": "LivroJavaParaIniciantes.GalToLitTable",
+      "projectName": "studies_4757b834"
+    },
+    {
+      "type": "java",
+      "name": "GalToLit",
+      "request": "launch",
+      "mainClass": "GalToLit",
+      "projectName": "studies_4757b834"
+    },
+    {
+      "type": "java",
       "name": "TelaEsquematizada",
       "request": "launch",
       "mainClass": "TelaEsquematizada",
