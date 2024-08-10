@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "TelaEsquematizada",
+      "request": "launch",
+      "mainClass": "TelaEsquematizada",
+      "projectName": "studies_4757b834"
+    },
+    {
+      "type": "java",
+      "name": "Maiusculas",
+      "request": "launch",
+      "mainClass": "Maiusculas",
+      "projectName": "studies_4757b834"
+    },
+    {
+      "type": "java",
       "name": "VetorExercicio",
       "request": "launch",
       "mainClass": "VetorExercicio",
